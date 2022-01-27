@@ -1,6 +1,6 @@
 # JVMFrog
 
-## karint-lang week
+## frogl week
 
 ## About
 
