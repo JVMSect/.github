@@ -2,6 +2,8 @@
 
 - 🔭 We are currently working on [frogl](https://github.com/JVMFrog/frogl)
 
+## #WeNeedFroglSyntax
+
 ## frogl week
 
 ## About
